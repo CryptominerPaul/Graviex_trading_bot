@@ -74,7 +74,7 @@ To start Bot in Terminal:
 1. `screen -S Graviex Bot file` this is the folder where the bot is located
 2. start bot
 ```
-python3 Graviex_bot
+python3 Graviex_bot.py
 ```
 3. to exit screen and keep bot running hold the key `Control` and than press keys `a d` at the same time
 4. to resume screen type `screen -r`
@@ -84,6 +84,10 @@ Trading Bot Example:
 
 <img src="https://user-images.githubusercontent.com/40405385/225456228-2a5081d7-9d96-4733-9e27-8d9a8f87542a.png" width="25%" alt="Graviex_bot">
 
-Disclaimer: 
+<div style="color: yellow;">
 
-```The trading bot provided herein is designed for informational and educational purposes only. It is not intended to be, and should not be construed as, financial, investment, or trading advice. Users of this trading bot assume full responsibility for any decisions made based on its outputs, and the creators and maintainers of the bot shall not be held liable for any losses, damages, or claims arising from the use of this tool. Trading in financial markets involves substantial risks, including the potential for loss of principal, and may not be suitable for all investors. Before using this trading bot, users should carefully consider their financial objectives, risk tolerance, and level of experience. We strongly recommend consulting with a qualified financial advisor before making any investment or trading decisions.```
+**Disclaimer:**
+
+The trading bot provided herein is designed for informational and educational purposes only. It is not intended to be, and should not be construed as, financial, investment, or trading advice. Users of this trading bot assume full responsibility for any decisions made based on its outputs, and the creators and maintainers of the bot shall not be held liable for any losses, damages, or claims arising from the use of this tool. Trading in financial markets involves substantial risks, including the potential for loss of principal, and may not be suitable for all investors. Before using this trading bot, users should carefully consider their financial objectives, risk tolerance, and level of experience. We strongly recommend consulting with a qualified financial advisor before making any investment or trading decisions.
+
+</div>
