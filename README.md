@@ -73,7 +73,6 @@ add # to the ``buy_response = create_buy_order()`` line of code to stop the bot 
 Trading Bot Example:
 
 <img src="https://user-images.githubusercontent.com/40405385/225456228-2a5081d7-9d96-4733-9e27-8d9a8f87542a.png" width="25%" alt="Graviex_bot">
-![image](https://user-images.githubusercontent.com/40405385/225456228-2a5081d7-9d96-4733-9e27-8d9a8f87542a.png)
 
 Disclaimer: 
 
