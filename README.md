@@ -73,8 +73,10 @@ add # to the ``buy_response = create_buy_order()`` line of code to stop the bot 
 To start Bot in Terminal:
 1. `screen -S Graviex Bot file` this is the folder where the bot is located
 2. start bot
+
 ```python3 Graviex_bot```
-3. to exit screen and keep bot running hold the key `Control` and than press keys `A D` at the same time
+
+3. to exit screen and keep bot running hold the key `Control` and than press keys `a d` at the same time
 4. to resume screen type `screen -r`
 5. to stop bot press `Control c`
 
