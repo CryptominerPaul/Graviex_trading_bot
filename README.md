@@ -71,7 +71,7 @@ volume = desired_amount / current_rate + 0.05
 add # to the `buy_response = create_buy_order()` line of code to stop the bot order from being placed
 
 To start Bot in Terminal:
-1. `screen -S Graviex Bot file` this is the folder where the bot is located
+1. `screen -S Graviex_trading_Bot file` this is the folder where the bot is located
 2. start bot
 ```
 python3 Graviex_bot.py
