@@ -49,9 +49,9 @@ Example:
 ```
 # Graviex-Keys
 # Api-Key
-access_key=
+api_key=ENTER_YOUR_KEY_HERE
 # Api-Secret-Key
-secret_key=
+secret_key=ENTER_YOUR_KEY_HERE
 ```
 
 In The Bot ``Graviex_bot.py``
