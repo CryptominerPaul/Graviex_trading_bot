@@ -11,6 +11,11 @@ You will need two files to run the bot
 ```
 mkdir Graviex_Trading_Bot
 ```
+than 
+```
+cd Graviex_Trading_Bot
+```
+
 2. Download files to the new directory you just created
 ```
 .env
@@ -50,8 +55,12 @@ pip install prettytable
 pip install python-dotenv
 ```
 
-You will need to update your ``Private Keys`` and ``Coin Pairs`` in the .env file
+Using nano you will need to update your ``Private Keys`` and ``Coin Pairs`` in the .env file
 Example:
+```
+nano .env
+```
+
 ```
 # Graviex-Keys
 # Api-Key
@@ -60,7 +69,10 @@ api_key=ENTER_YOUR_KEY_HERE
 secret_key=ENTER_YOUR_KEY_HERE
 ```
 
-In The Bot ``Graviex_bot.py``
+In The Bot.py using nano command you can change lines of code 
+```
+nano Xeggex_Bot.py
+```
 
 You can update the following lines of code to your stratigies
 ```
